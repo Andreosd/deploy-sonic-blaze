@@ -1,6 +1,6 @@
 # Sonic Network Smart Contract Project
 
-This project demonstrates a basic smart contract deployment on the Sonic Network using Hardhat.
+This project demonstrates a basic smart contract deployment on the Sonic Network using Hardhat..
 
 ## Installation
 
